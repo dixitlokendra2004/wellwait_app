@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "596399165765",
+    "project_id": "wellwait-10595",
+    "storage_bucket": "wellwait-10595.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596399165765:android:0abecd24099a9d87082e2c",
+        "android_client_info": {
+          "package_name": "com.wellwait.salonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596399165765-qaao26j3t07vb4ltfpese3m31le9e98c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wellwait.salonapp",
+            "certificate_hash": "bcb57f4017e52a6b62c5767fc0b99f57c63d17bb"
+          }
+        },
+        {
+          "client_id": "596399165765-5bdom2a905u7n0bqabr42ek8tslep3m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrnBVQFZyHAcmnhT32LVCMpdVr5_7P1MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596399165765-5bdom2a905u7n0bqabr42ek8tslep3m4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
